@@ -1,4 +1,4 @@
-<h2 align="left">"Hi, I'm a passionate web developer with expertise in building dynamic, responsive websites and web applications. My skill set includes JavaScript, TypeScript, React, HTML5, CSS3, Python, and C#. I thrive on turning complex problems into simple, user-friendly solutions, and I am constantly learning new technologies to stay ahead in the fast-evolving tech world. Whether it's front-end development or back-end integration, I love creating seamless digital experiences. Connect with me on social platforms to stay in touch!"</h2>
+<h2 align="left">"Hi, I'm Sohag, a web developer skilled in creating responsive websites and web apps using JavaScript, React, HTML, and CSS."</h2>
 
 ###
 
