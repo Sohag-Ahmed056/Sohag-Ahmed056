@@ -4,12 +4,11 @@
 <p align="left"> <img src="Black Simple Watch Promotion Advert Web Banner.jpg" alt="sohag-ahmed056" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohag-ahmed056&label=Profile%20views&color=0e75b6&style=flat" alt="sohag-ahmed056" /> </p>
+- I am a Full Stack Web Developer skilled in React, TypeScript, Node.js, Express, and MongoDB, focused on building clean, scalable, and user-friendly web applications.
 
+ 
 
-
-- 🌱 I’m currently learning **Redux, Typescript,Next Js**
-
-- 💬 Ask me about **React, Javascript**
+- 🌱 I’m currently learning **Agentic AI, Langchain , LangGraph**
 
 - 📫 How to reach me **sohagahmed056@gmail.com**
 
