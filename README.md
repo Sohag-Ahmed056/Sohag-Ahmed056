@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sohag</h1>
 <h3 align="center">A passionate WebDeveloper from Bangladesh</h3>
 
-<p align="left"> <img src="Black Simple Watch Promotion Advert Web Banner.jpg" alt="sohag-ahmed056" /> </p>
+<p align="left"> <img src="Teal and Black Modern Programmer New LinkedIn Banner.png" alt="sohag-ahmed056" /> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohag-ahmed056&label=Profile%20views&color=0e75b6&style=flat" alt="sohag-ahmed056" /> </p>
 - I am a Full Stack Web Developer skilled in React, TypeScript, Node.js, Express, and MongoDB, focused on building clean, scalable, and user-friendly web applications.
