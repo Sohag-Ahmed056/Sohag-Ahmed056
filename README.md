@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohag</h1>
 <h3 align="center">A passionate WebDeveloper from Bangladesh</h3>
 
-<p align="left"> <img src="Teal and Black Modern Programmer New LinkedIn Banner.png(1)" alt="sohag-ahmed056" /> </p>
+<p align="left"> <img src="Teal and Black Modern Programmer New LinkedIn Banner (1).png" alt="sohag-ahmed056" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohag-ahmed056&label=Profile%20views&color=0e75b6&style=flat" alt="sohag-ahmed056" /> </p>
