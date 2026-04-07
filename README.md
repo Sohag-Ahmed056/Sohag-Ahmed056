@@ -75,16 +75,18 @@ const sohag = {
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=sohag-ahmed056&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag-ahmed056&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" height="165"/>
-
+ 
 <br/>
-
-
-
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohag-ahmed056&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="70%"/>
+ 
+<br/>
+ 
 </div>
 
 ---
