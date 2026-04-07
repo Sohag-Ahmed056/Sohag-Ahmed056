@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d9ff&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Sohag%20Ahmed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20Enthusiast%20from%20Bangladesh&descSize=15&descAlignY=58&descColor=ccefff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d9ff&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Sohag%20Ali&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20Enthusiast%20from%20Bangladesh&descSize=15&descAlignY=58&descColor=ccefff" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Learning+Agentic+AI+%26+LangChain+%F0%9F%A4%96;Building+Clean+%26+Scalable+Apps+%E2%9C%A8" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 ```typescript
 const sohag = {
-  name: "Sohag Ahmed",
+  name: "Sohag Ali",
   role: "Full Stack Web Developer",
   location: "Bangladesh 🇧🇩",
   focus: "Clean, Scalable & User-Friendly Web Apps",
@@ -83,11 +83,7 @@ const sohag = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohag-ahmed056&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="70%"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohag-ahmed056&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -129,6 +125,6 @@ const sohag = {
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**⭐ If you like my work, consider starring my repos! ⭐**
+**⭐ Thank You ⭐**
 
 </div>
