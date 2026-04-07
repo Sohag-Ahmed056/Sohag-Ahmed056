@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Sohag Ahmed 👋
+# Hi there, I'm Sohag Ali 👋
 
 ### Full Stack Web Developer | Bangladesh 🇧🇩
 
